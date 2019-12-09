@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://kfc-staging.ap-southeast-1.elasticbeanstalk.com/api/v1/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'+6285643628232'</initValue>
+      <name>phone_number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'216620000000599913807'</initValue>
+      <name>merchant_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'{2EBDC5C3-3B93-4D66-814D-182F2EFC36FF}'</initValue>
+      <name>request_id</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
